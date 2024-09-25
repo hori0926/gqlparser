@@ -1,4 +1,4 @@
-module github.com/hori0926/gqlparser/v2
+module github.com/hori0926/gqlparser
 
 go 1.19
 
@@ -14,9 +14,4 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/sergi/go-diff v1.3.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-)
-
-retract (
-	v2.5.14
-	v2.5.13
 )
