@@ -1,4 +1,4 @@
-module github.com/vektah/gqlparser/v2
+module github.com/hori0926/gqlparser/v2
 
 go 1.19
 
